@@ -1,3 +1,5 @@
+# this repo is deprecated
+
 # react-native-brightcove-ima-player
 
 <img src="./assets/preview.jpg" width="500">
